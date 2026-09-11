@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+}
+img.logo{
+    height: 150px;
+}
+body{
+    background-image: url(../0f31b461-f212-466d-9000-7f1564dfbd12.png);
+}
